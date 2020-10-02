@@ -2,8 +2,8 @@
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
-* [About the Project](#abou
-* [Built With](#built-with)t-the-project)
+* [About the Project](#about-the-project)
+* [Built With](#built-with)
 * [Demo](#demo)
 * [Run the Flutter App](#run-the-flutter-app)
 
