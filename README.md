@@ -2,9 +2,9 @@
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
-* [About the Project](#about-the-project)
-
-* [Built With](#built-with)
+* [About the Project](#abou
+* [Built With](#built-with)t-the-project)
+* [Demo](#demo)
 * [Run the Flutter App](#run-the-flutter-app)
 
 
@@ -70,7 +70,13 @@ the drug to ensure the safety of the patients.
 * Flutter App- That runs on both iOS and Android Mobiles
 * Google Firebase- Used as database and mock data for patients are created in this database
 
+## Demo
+[Click this link to watch the demo of the Collegare App](https://www.youtube.com/watch?v=zAcKn5zAILY&feature=youtu.be). 
+
+All the functionalities are explained in the Video Demo.
+
 ## Run the Flutter App
+* Clone the repository
 * Set up Visual Studio Code / Android Studio and load the project.
 * Either use an emulator/ a physical Mobile Device and run the code.
 * To run the App in iPhone, MAC OS is required.
