@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "218248375327",
+    "firebase_url": "https://agbi-27ddd.firebaseio.com",
+    "project_id": "agbi-27ddd",
+    "storage_bucket": "agbi-27ddd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218248375327:android:fda692bef5f49376f7792a",
+        "android_client_info": {
+          "package_name": "com.example.agbi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218248375327-lcluhgrlukaojs99fcseeodthr9jk5fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5HidmwXtwtvjeKZRF2f3JisekoDoAE10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218248375327-lcluhgrlukaojs99fcseeodthr9jk5fv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "218248375327-qrroio4o7f9cvaa450cu93vqllc6s7v0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.company"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218248375327:android:27957dbf2465ebf7f7792a",
+        "android_client_info": {
+          "package_name": "com.example.company"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218248375327-lcluhgrlukaojs99fcseeodthr9jk5fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5HidmwXtwtvjeKZRF2f3JisekoDoAE10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218248375327-lcluhgrlukaojs99fcseeodthr9jk5fv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "218248375327-qrroio4o7f9cvaa450cu93vqllc6s7v0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.company"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
