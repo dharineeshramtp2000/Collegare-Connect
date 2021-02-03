@@ -80,34 +80,3 @@ All the functionalities are explained in the Video Demo.
 * Set up Visual Studio Code / Android Studio and load the project.
 * Either use an emulator/ a physical Mobile Device and run the code.
 * To run the App in iPhone, MAC OS is required.
-### Test the App:
-**To Sign In as Compnay, enter the details as follows:**
-
-Company Code-1234567890
-
-email - alex@gmail.com
-
-password - 12345678
-
-
-**To Sign In as Doctor, enter the details as follows:**
-
-DoctorId - Dr Riya
-
-password - Dr Riya
-
-specialization - Choose 'Odontology' from the dropdown list
-
-
-**To Sign In as Patient, enter the details as follows:**
-
-Patient Id - U123joe
-
-
-**To Sign In as Doctor, enter the details as follows:**
-
-UserName - Kumar_shop
-
-email - ktv0303@gmail.com
-
-password - 12345678
